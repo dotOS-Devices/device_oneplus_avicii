@@ -8,8 +8,7 @@
     {
         "repository":"kernel_oneplus_sm7250",
         "target_path":"kernel/oneplus/sm7250",
-        "branch":"dot11",
-        "remote":"github"
+        "branch":"dot11"
     },
     {
         "repository":"vendor_oneplus_avicii",
