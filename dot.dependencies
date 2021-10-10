@@ -1,0 +1,31 @@
+[
+    {
+        "repository":"vendor_oneplus_avicii-vendor",
+        "target_path":"vendor/oneplus/avicii-vendor",
+        "branch":"dot11",
+        "remote":"dotos-devices-gitlab"
+    },
+    {
+        "repository":"kernel_oneplus_sm7250",
+        "target_path":"kernel/oneplus/sm7250",
+        "branch":"dot11",
+        "remote":"github"
+    },
+    {
+        "repository":"vendor_oneplus_avicii",
+        "target_path":"vendor/oneplus/avicii",
+        "branch":"dot11",
+        "remote":"dotos-devices-gitlab"
+    },
+    {
+        "repository":"vendor_oneplus_firmware",
+        "target_path":"vendor/oneplus/firmware",
+        "branch":"dot11",
+        "remote":"dotos-devices-gitlab"
+    },
+    {
+        "repository":"android_device_oneplus_common",
+        "target_path":"device/oneplus/common",
+        "branch":"dot11"
+    }
+]
